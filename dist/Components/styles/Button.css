@@ -1,0 +1,9 @@
+.primary_class_button {
+    color: #fff;
+    background: #0000ff;
+    min-width: 100px;
+    min-height: 60px;
+    font-size: 18px;
+    padding: 10px;
+    box-sizing: border-box;
+}
