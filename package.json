@@ -1,7 +1,8 @@
 {
   "name": "button-functionality",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "private": false,
+  "keywords": ["react", "components", "ui"],
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.16.5",
@@ -35,8 +36,9 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
+  "description": "Button Component to test",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -51,6 +53,11 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "",
+  "author": "Bhaven Jain",
+  "files": [ "dist", "README.md" ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaven360/Button-functionalities.git"
+  },
   "license": "ISC"
 }

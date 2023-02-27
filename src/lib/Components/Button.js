@@ -3,7 +3,7 @@ import "./styles/Button.css"
 
 const Button = ({className, type, text}) => {
   return (
-    <div className={className} type={type}>
+    <div className="primary_class_button" type={type}>
       {text}
     </div>
   )

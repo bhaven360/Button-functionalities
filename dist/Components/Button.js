@@ -14,7 +14,7 @@ const Button = _ref => {
     text
   } = _ref;
   return /*#__PURE__*/_react.default.createElement("div", {
-    className: className,
+    className: "primary_class_button",
     type: type
   }, text);
 };

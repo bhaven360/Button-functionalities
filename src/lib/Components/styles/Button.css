@@ -2,8 +2,9 @@
     color: #fff;
     background: #0000ff;
     min-width: 100px;
-    min-height: 60px;
+    width: 100px;
+    min-height: 70px;
     font-size: 18px;
-    padding: 10px;
+    padding: 5px;
     box-sizing: border-box;
 }
